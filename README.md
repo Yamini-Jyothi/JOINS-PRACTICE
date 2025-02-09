@@ -25,3 +25,13 @@ An INNER JOIN retrieves records that have matching values in both tables, showin
 The project highlights the practical use of joins in database management and querying. By executing different joins, users can understand how data from multiple tables is combined based on relationships. This knowledge is valuable in real-world applications such as HR management systems, inventory tracking, and customer databases. The project serves as a hands-on learning experience, helping individuals improve their SQL skills and gain a deeper understanding of relational databases. Through this structured approach, users develop confidence in handling complex database queries, making them better equipped for tasks involving data integration and analysis.
 
 Additionally, this project demonstrates how joins optimize data retrieval by reducing redundancy and improving efficiency in relational databases. Understanding joins is crucial for developers working with large datasets in enterprise applications, analytics, and reporting systems. Mastering SQL joins enables better data organization, enhances query performance, and provides deeper insights into relational data structures.
+
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/4fe91552-54bb-49eb-b7bc-3e32eb747b0d)
+
+![Image](https://github.com/user-attachments/assets/890eaf59-e835-47e0-8a36-95ebf4f47863)
+
+![Image](https://github.com/user-attachments/assets/6795f3b4-ee6a-4fb7-8d6f-520c923f0fc0)
+
+![Image](https://github.com/user-attachments/assets/9a8f07be-c4e3-4856-927a-f834f748b0ea)
